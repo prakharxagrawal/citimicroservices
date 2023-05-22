@@ -1,0 +1,17 @@
+Further Reading :
+https://tkssharma-devops.gitbook.io/devops-training/microservices/architecture-components
+
+https://tkssharma-devops.gitbook.io/devops-training/aws-architecture-example-lab/application-3-tier-architecture
+
+https://microservices.io/index.html
+
+https://microservices.io/patterns/index.html
+
+https://microservices.io/patterns/data/cqrs.html
+
+
+https://en.wikipedia.org/wiki/CAP_theorem
+
+
+https://github.com/donnemartin/system-design-primer
+

@@ -1,0 +1,29 @@
+    https://docs.docker.com/engine/install/ubuntu/
+    1  clear
+    2  java -version
+    3  sudo apt update
+    4  java -version
+    5  sudo apt-get install openjdk-8-jdk
+    6  java -version
+    7  cd /usr/lib/jvm/
+    8  ls
+    9  cd java-1.8.0-openjdk-amd64
+   10  pwd
+   11  export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
+   12  echo $JAVA_HOME
+   13  cd ~
+   14  printenv
+   15  sudo apt-get install ca-certificates curl gnupg
+   16  sudo install -m 0755 -d /etc/apt/keyrings
+   17  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+   18  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+   19  echo   "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+   20  sudo apt-get update
+   21  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   22  docker --version
+   23  sudo docker run hello-world
+   24  docker ps 
+   25  sudo docker ps 
+   26  sudo docker ps -a
+   27  history

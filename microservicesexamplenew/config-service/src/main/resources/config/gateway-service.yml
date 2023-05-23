@@ -1,0 +1,31 @@
+server:
+  port: 8060
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8061/eureka/
+
+logging:
+  pattern: 
+    console: "%d{yyyy-MM-dd HH:mm:ss} ${LOG_LEVEL_PATTERN:-%5p} %m%n"
+              
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+      - id: helloworld-service
+        uri: lb://helloworld-service
+        predicates:
+        - Path=/helloworld/**
+        filters:
+        - RewritePath=/helloworld/(?<path>.*), /$\{path}
+      
+springdoc:
+  swagger-ui:
+    urls:
+      - name: helloworld
+        url: /v3/api-docs/helloworld

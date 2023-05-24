@@ -1,0 +1,1 @@
+All DML and DDL files should be here for EL DORADO project.

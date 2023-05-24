@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: search-deployment
+  labels:
+    app: search
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: search
+  template:
+    metadata:
+      labels:
+        app: search
+    spec:
+      containers:
+      - name: search
+        image: sanjeev00/search-img:latest
+        ports:
+        - containerPort: 8086

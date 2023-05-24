@@ -1,0 +1,6 @@
+Create your product developmenmt phase structure in 3 folders:
+
+
+-UI
+-Services
+-DB

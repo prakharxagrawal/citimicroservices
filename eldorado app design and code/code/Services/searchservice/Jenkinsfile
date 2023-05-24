@@ -1,0 +1,92 @@
+
+pipeline {
+    agent any
+
+	tools {
+        maven 'mvn'
+        jdk 'jdk11'
+    }
+
+    environment { 
+       
+        registryCredential = 'dockerhub_id' 
+        dockerImage = '' 
+        BRANCH_NAME = env.GIT_BRANCH.replace('product-phase/', '')
+		registry = "eldorado/search-img:latest" 
+    }
+
+    stages {
+	
+	stage('compile')
+	{
+	   steps{
+           echo env.GIT_BRANCH
+	       sh '''cd Services/searchservice  
+		   mvn compile'''	
+	}
+	}
+	
+	stage('test')
+	{
+		steps{
+			sh '''
+			cd Services/searchservice 
+			mvn install
+
+			'''
+		}
+	}
+
+	
+	stage('install') {
+		steps {
+			sh '''cd Services/searchservice 
+				mvn install'''	
+		}
+	}
+
+	stage('Testing Code coverage')
+	{
+		steps{
+			dir('Services/searchservice')
+			{
+			jacoco( execPattern: 'target/*.exec',classPattern: 'target/classes', sourcePattern: 'src/main/java', exclusionPattern: 'src/test*')
+			}
+		}
+	}
+
+	
+	stage('SonarQube Analysis')
+	{
+		steps{
+			withSonarQubeEnv('sonarqube') {
+				sh '''
+				cd Services/searchservice  
+				mvn sonar:sonar
+				'''
+			}
+		}
+	}
+	
+
+    stage('Building our image') { 
+        when {
+                anyOf {
+                    branch 'master';
+                    branch 'dev';   
+                }
+        }    
+        steps { 
+                script { 
+                    dir('Services/searchservice') {
+                    dockerImage = docker.build(registry)
+                    }
+                }
+            } 
+        }
+
+
+
+	
+	}
+}

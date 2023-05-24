@@ -1,0 +1,7003 @@
+{ 
+"objects":[ 
+{ 
+"clothes":"Marchesa",
+"grocery":"Dry Goods",
+"food":"Soprole",
+"medical":"Singulair",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Coffee",
+"food":"Papadopoulos",
+"medical":"Unisom",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Canned Goods",
+"food":"Andy Capp's fries",
+"medical":"Panadol",
+"books":"French"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Grooming products",
+"food":"Starbucks",
+"medical":"Ibuprofen",
+"books":"Spanish"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Pasta",
+"food":"Tic Tac",
+"medical":"Ibuprofen",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Paper Goods",
+"food":"Dr. Oetker",
+"medical":"Arcoxia",
+"books":"German"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Bottled waters",
+"food":"Nesquik",
+"medical":"Magne B6",
+"books":"Accounting"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Dry Goods",
+"food":"Magnum",
+"medical":"MidNite",
+"books":"English IV"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Snack foods",
+"food":"Bewley's",
+"medical":"Lasix",
+"books":"Speech"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Coffee",
+"food":"Carib Brewery",
+"medical":"Advil",
+"books":"Grammar"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Poultry",
+"food":"Sun-Pat",
+"medical":"Cosopt",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Tomato sauce",
+"food":"Burger King",
+"medical":"Emend",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Condiments",
+"food":"Burger King",
+"medical":"Exact",
+"books":"Science"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Coffee",
+"food":"KFC",
+"medical":"Arcoxia",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Eggs",
+"food":"Tic Tac",
+"medical":"Vaqta",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Flour",
+"food":"McDonald's",
+"medical":"Herceptin",
+"books":"Accounting"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Alcoholic beverages",
+"food":"Vitta Foods",
+"medical":"Unisom",
+"books":"Earth Science"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Detergents",
+"food":"Subway",
+"medical":"Novolin",
+"books":"German"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Sweets",
+"food":"Taco Bell",
+"medical":"Zoloft",
+"books":"Speech"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Cosmetics",
+"food":"LEonidas",
+"medical":"Zoloft",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Ground turkey",
+"food":"Applebee's",
+"medical":"Makena",
+"books":"German"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Meat",
+"food":"Doritos",
+"medical":"Panadol",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Nonalcoholic beverages",
+"food":"Heinz",
+"medical":"Zetia",
+"books":"History"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Bottled waters",
+"food":"Carib Brewery",
+"medical":"Singulair",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Flour",
+"food":"Sun-Pat",
+"medical":"Vaqta",
+"books":"American Literature"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Decorations",
+"food":"Soprole",
+"medical":"Miralax",
+"books":"Latin"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Cereals",
+"food":"Lavazza",
+"medical":"Unisom",
+"books":"Latin"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Alcoholic beverages",
+"food":"Wonder Bread",
+"medical":"Exact",
+"books":"German"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Pet foods",
+"food":"Cheetos",
+"medical":"Aspirin",
+"books":"History"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Grooming products",
+"food":"Kinder",
+"medical":"Amaryl",
+"books":"Ecology"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Tomato sauce",
+"food":"Vitta Foods",
+"medical":"Risperdal",
+"books":"Sociology"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Brown rice",
+"food":"Kits",
+"medical":"OxyContin",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Dairy",
+"food":"Burger King",
+"medical":"Cosopt",
+"books":"Accounting"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Alcoholic beverages",
+"food":"Domino",
+"medical":"Claritin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Flowers",
+"food":"Nutella",
+"medical":"Prozac",
+"books":"German"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Detergents",
+"food":"M&M Food Market",
+"medical":"Zovirax",
+"books":"French"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Paper Goods",
+"food":"Magnum",
+"medical":"Maxalt",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"White rice",
+"food":"Bewley's",
+"medical":"Vioxx",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Pet foods",
+"food":"Vitta Foods",
+"medical":"Maxalt",
+"books":"Economics"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Grooming products",
+"food":"M&M Food Market",
+"medical":"Novolin",
+"books":"English IV"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Hygiene products",
+"food":"Domino",
+"medical":"Miralax",
+"books":"Spanish"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Pet foods",
+"food":"McDonald's",
+"medical":"OxyContin",
+"books":"French"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Condiments",
+"food":"Pizza Hut",
+"medical":"Midodrine",
+"books":"Speech"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Bread",
+"food":"Dunkin' Donuts",
+"medical":"Emend",
+"books":"Ecology"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Cheese",
+"food":"Cobblestone",
+"medical":"Maxalt",
+"books":"English IV"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Dishware",
+"food":"Baskin robbins",
+"medical":"Fosamax",
+"books":"Basic Math"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Dairy",
+"food":"Secret Recipe",
+"medical":"Unisom",
+"books":"Ecology"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Olive oil",
+"food":"Taco Bell",
+"medical":"Gravol",
+"books":"Health"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Hygiene products",
+"food":"Cobblestone",
+"medical":"Tylenol",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Tea",
+"food":"Kits",
+"medical":"Benadryl",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Tomato sauce",
+"food":"Pizza Hut",
+"medical":"Panadol",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Meat",
+"food":"Andy Capp's fries",
+"medical":"Vaqta",
+"books":"Grammar"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Fruits",
+"food":"Papadopoulos",
+"medical":"Vioxx",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Salmon",
+"food":"Kits",
+"medical":"Zoloft",
+"books":"French"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Detergents",
+"food":"Heinz",
+"medical":"Makena",
+"books":"Grammar"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Pet foods",
+"food":"Soprole",
+"medical":"Fosamax",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Brown rice",
+"food":"Kinder",
+"medical":"Makena",
+"books":"German"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Baby food",
+"food":"McDonald's",
+"medical":"Maxalt",
+"books":"History"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Seafood",
+"food":"Sun-Pat",
+"medical":"Benadryl",
+"books":"German"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Grooming products",
+"food":"Red Lobster",
+"medical":"Zovirax",
+"books":"English IV"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Cereals",
+"food":"Dunkin' Donuts",
+"medical":"Risperdal",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Flour",
+"food":"Magnum",
+"medical":"MidNite",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Dairy",
+"food":"Soprole",
+"medical":"Benadryl",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Fish",
+"food":"Applebee's",
+"medical":"Symbicort",
+"books":"Accounting"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Vegetables",
+"food":"Secret Recipe",
+"medical":"Exact",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Dairy",
+"food":"Andy Capp's fries",
+"medical":"Zoloft",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Dry Goods",
+"food":"Kinder",
+"medical":"Singulair",
+"books":"Accounting"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Candies",
+"food":"Burger King",
+"medical":"Zetril",
+"books":"Sociology"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Pasta",
+"food":"Cheetos",
+"medical":"OxyContin",
+"books":"Ecology"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Cheese",
+"food":"Papadopoulos",
+"medical":"Paracetamol",
+"books":"Art"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Medicines",
+"food":"Bel Group",
+"medical":"Fosamax",
+"books":"Geography"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Condiments",
+"food":"Cheetos",
+"medical":"Fosamax",
+"books":"Sociology"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Vegetables",
+"food":"Wonder Bread",
+"medical":"Tylenol",
+"books":"American Literature"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Cosmetics",
+"food":"Carib Brewery",
+"medical":"Paracetamol",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Personal Care",
+"food":"Applebee's",
+"medical":"Visine",
+"books":"Leadership"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Sauces",
+"food":"Tic Tac",
+"medical":"Herceptin",
+"books":"History"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Canned Goods",
+"food":"Subway",
+"medical":"Zoloft",
+"books":"English IV"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Cereals",
+"food":"Kits",
+"medical":"Makena",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Eggs",
+"food":"Domino",
+"medical":"Ocrevus",
+"books":"Grammar"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Vegetables",
+"food":"Tic Tac",
+"medical":"Ibuprofen",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Candies",
+"food":"Baskin robbins",
+"medical":"Herceptin",
+"books":"French"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"White rice",
+"food":"McDonald's",
+"medical":"Cosopt",
+"books":"American Literature"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Personal Care",
+"food":"Magnum",
+"medical":"Nurofen",
+"books":"Speech"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Decorations",
+"food":"Applebee's",
+"medical":"Miralax",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Dishware",
+"food":"Papadopoulos",
+"medical":"Ocrevus",
+"books":"Economics"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Dishware",
+"food":"Olymel",
+"medical":"Fosamax",
+"books":"Economics"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Flour",
+"food":"Taco Bell",
+"medical":"Tylenol",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Personal Care",
+"food":"Sun-Pat",
+"medical":"Gravol",
+"books":"American Literature"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Seafood",
+"food":"Red Lobster",
+"medical":"Zoloft",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Tomato sauce",
+"food":"Bewley's",
+"medical":"Vioxx",
+"books":"English IV"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Vegetables",
+"food":"M&M Food Market",
+"medical":"Ibuprofen",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Baby food",
+"food":"Cobblestone",
+"medical":"Advil",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Personal Care",
+"food":"Papadopoulos",
+"medical":"Lasix",
+"books":"Sociology"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Fish",
+"food":"Red Lobster",
+"medical":"Novolin",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Cereals",
+"food":"Nesquik",
+"medical":"Benadryl",
+"books":"Latin"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Toys",
+"food":"Baskin robbins",
+"medical":"Amaryl",
+"books":"Geography"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Decorations",
+"food":"Kits",
+"medical":"Singulair",
+"books":"Economics"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Canned Goods",
+"food":"Subway",
+"medical":"Aspirin",
+"books":"Latin"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Alcoholic beverages",
+"food":"Burger King",
+"medical":"Claritin",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Frozen foods",
+"food":"Knorr",
+"medical":"Abilify",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Toys",
+"food":"Domino",
+"medical":"Novolin",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"House-cleaning products",
+"food":"Cheetos",
+"medical":"Unisom",
+"books":"Health"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Grooming products",
+"food":"Domino",
+"medical":"Benadryl",
+"books":"Ecology"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Sweets",
+"food":"Starbucks",
+"medical":"Amaryl",
+"books":"Sociology"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Grooming products",
+"food":"Olymel",
+"medical":"Ibalgin",
+"books":"German"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Bakery products",
+"food":"Taco Bell",
+"medical":"Visine",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Pasta",
+"food":"Nutella",
+"medical":"MidNite",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Toys",
+"food":"Bewley's",
+"medical":"Panadol",
+"books":"French"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Dairy",
+"food":"Vitta Foods",
+"medical":"Unisom",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Tea",
+"food":"Cobblestone",
+"medical":"Band-Aid",
+"books":"History"
+},
+{ 
+"clothes":"SABA",
+"grocery":"White rice",
+"food":"KFC",
+"medical":"MidNite",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Cereals",
+"food":"Nesquik",
+"medical":"Vioxx",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Dry Goods",
+"food":"Soprole",
+"medical":"Zetia",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Poultry",
+"food":"Burger King",
+"medical":"Arcoxia",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Medicines",
+"food":"Carib Brewery",
+"medical":"Lasix",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"White rice",
+"food":"Tic Tac",
+"medical":"Tylenol",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Dry Goods",
+"food":"McDonald's",
+"medical":"NyQuill",
+"books":"Economics"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Dishware",
+"food":"Starbucks",
+"medical":"Lisinopril",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Tea",
+"food":"Sun-Pat",
+"medical":"Fosamax",
+"books":"German"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Cheese",
+"food":"Burger King",
+"medical":"Claritin",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Decorations",
+"food":"Nabisco",
+"medical":"Zoloft",
+"books":"English IV"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Canned Goods",
+"food":"LEonidas",
+"medical":"Zetril",
+"books":"Music"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Detergents",
+"food":"McDonald's",
+"medical":"Makena",
+"books":"Latin"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Bottled waters",
+"food":"Bel Group",
+"medical":"Varivax",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Eggs",
+"food":"Red Lobster",
+"medical":"Arcoxia",
+"books":"English IV"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Salmon",
+"food":"Nesquik",
+"medical":"Advil",
+"books":"American Literature"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Decorations",
+"food":"Subway",
+"medical":"Magne B6",
+"books":"American Literature"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Cereals",
+"food":"Lavazza",
+"medical":"Vioxx",
+"books":"Sociology"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"House-cleaning products",
+"food":"Starbucks",
+"medical":"Vaqta",
+"books":"Geography"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Flour",
+"food":"Carib Brewery",
+"medical":"MidNite",
+"books":"Geography"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Alcoholic beverages",
+"food":"Pizza Hut",
+"medical":"Herceptin",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Pet foods",
+"food":"Dr. Oetker",
+"medical":"Panadol",
+"books":"Earth Science"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Coffee",
+"food":"Pizza Hut",
+"medical":"Cosopt",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Coffee",
+"food":"Betty Crocker",
+"medical":"Zoloft",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Dishware",
+"food":"Baskin robbins",
+"medical":"Gravol",
+"books":"Leadership"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Brown rice",
+"food":"Subway",
+"medical":"Zetril",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Brown rice",
+"food":"Carib Brewery",
+"medical":"Benadryl",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Personal hygiene",
+"food":"Sun-Pat",
+"medical":"Ibuprofen",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Chicken",
+"food":"Taco Bell",
+"medical":"Makena",
+"books":"English IV"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Sauces",
+"food":"Kits",
+"medical":"Unisom",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"House-cleaning products",
+"food":"Andy Capp's fries",
+"medical":"Ibuprofen",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Salmon",
+"food":"McDonald's",
+"medical":"Claritin",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Olive oil",
+"food":"Dr. Oetker",
+"medical":"Gravol",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Cheese",
+"food":"Subway",
+"medical":"Ocrevus",
+"books":"Economics"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Dry Goods",
+"food":"Cheetos",
+"medical":"Aggrastat",
+"books":"Art"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Chicken",
+"food":"LEonidas",
+"medical":"Aggrastat",
+"books":"American Literature"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Personal hygiene",
+"food":"KFC",
+"medical":"Exact",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Housewares",
+"food":"Heinz",
+"medical":"Varivax",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Bottled waters",
+"food":"Kits",
+"medical":"Prozac",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Candies",
+"food":"Doritos",
+"medical":"Exact",
+"books":"Spanish"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Baby food",
+"food":"Subway",
+"medical":"Cosopt",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Pasta",
+"food":"Dr. Oetker",
+"medical":"Novolin",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Personal Care",
+"food":"Applebee's",
+"medical":"Zoloft",
+"books":"Accounting"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Meat",
+"food":"Applebee's",
+"medical":"OxyContin",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Canned Goods",
+"food":"Red Lobster",
+"medical":"Zoloft",
+"books":"Grammar"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Olive oil",
+"food":"Kinder",
+"medical":"Coldrex",
+"books":"Economics"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Baby food",
+"food":"Wonder Bread",
+"medical":"Tylenol",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Canned Goods",
+"food":"Carib Brewery",
+"medical":"Unisom",
+"books":"Sociology"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Seafood",
+"food":"McDonald's",
+"medical":"Lisinopril",
+"books":"Earth Science"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Cheese",
+"food":"Dunkin' Donuts",
+"medical":"Magne B6",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Bread",
+"food":"Bel Group",
+"medical":"Zoloft",
+"books":"Leadership"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Frozen foods",
+"food":"Tic Tac",
+"medical":"Arcoxia",
+"books":"Health"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Fruits",
+"food":"Doritos",
+"medical":"Cosopt",
+"books":"English IV"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Pet foods",
+"food":"Pizza Hut",
+"medical":"Zoloft",
+"books":"Grammar"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Baby food",
+"food":"Dunkin' Donuts",
+"medical":"Emend",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Seafood",
+"food":"Vitta Foods",
+"medical":"Cosopt",
+"books":"Latin"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Alcoholic beverages",
+"food":"Secret Recipe",
+"medical":"Aspirin",
+"books":"German"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Nonalcoholic beverages",
+"food":"Bel Group",
+"medical":"Aggrastat",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Detergents",
+"food":"Applebee's",
+"medical":"Femibion",
+"books":"American Literature"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Sweets",
+"food":"Dunkin' Donuts",
+"medical":"Amaryl",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Dishware",
+"food":"Bel Group",
+"medical":"Symbicort",
+"books":"Spanish"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Medicines",
+"food":"Wendy's",
+"medical":"Arcoxia",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Cereals",
+"food":"Wendy's",
+"medical":"Vioxx",
+"books":"Music"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Canned Goods",
+"food":"Doritos",
+"medical":"Femibion",
+"books":"Dramatics"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Toys",
+"food":"Tic Tac",
+"medical":"Zetia",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Baby food",
+"food":"Applebee's",
+"medical":"Benadryl",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Chicken",
+"food":"Carib Brewery",
+"medical":"Vaqta",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Fish",
+"food":"Pizza Hut",
+"medical":"Vioxx",
+"books":"Geography"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Nonalcoholic beverages",
+"food":"Dr. Oetker",
+"medical":"Zovirax",
+"books":"History"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Detergents",
+"food":"Tic Tac",
+"medical":"Paracetamol",
+"books":"Speech"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Mustard",
+"food":"Applebee's",
+"medical":"Ibuprofen",
+"books":"Sociology"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Alcoholic beverages",
+"food":"Soprole",
+"medical":"Vioxx",
+"books":"Economics"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"White rice",
+"food":"Starbucks",
+"medical":"Nurofen",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Snack foods",
+"food":"Kits",
+"medical":"Zetia",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Diet foods",
+"food":"LEonidas",
+"medical":"Risperdal",
+"books":"Spanish"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Medicines",
+"food":"Olymel",
+"medical":"Ibuprofen",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Fish",
+"food":"M&M Food Market",
+"medical":"Prozac",
+"books":"Language Arts"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Personal Care",
+"food":"Heinz",
+"medical":"Magne B6",
+"books":"Economics"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Bakery products",
+"food":"Nabisco",
+"medical":"Femibion",
+"books":"American Literature"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Cereals",
+"food":"Domino",
+"medical":"Novolin",
+"books":"Economics"
+},
+{ 
+"clothes":"Converse",
+"grocery":"White rice",
+"food":"Cobblestone",
+"medical":"Varivax",
+"books":"Economics"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Alcoholic beverages",
+"food":"Pizza Hut",
+"medical":"Paracetamol",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Flowers",
+"food":"Burger King",
+"medical":"Emend",
+"books":"Science"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Pet foods",
+"food":"Burger King",
+"medical":"Fosamax",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Detergents",
+"food":"Cobblestone",
+"medical":"Varivax",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Flowers",
+"food":"Starbucks",
+"medical":"Prozac",
+"books":"Music"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Flour",
+"food":"Tic Tac",
+"medical":"Panadol",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Frozen foods",
+"food":"Taco Bell",
+"medical":"Zetril",
+"books":"Accounting"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Cosmetics",
+"food":"Pizza Hut",
+"medical":"Unisom",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Baby food",
+"food":"Applebee's",
+"medical":"Prozac",
+"books":"French"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Bakery products",
+"food":"Cheetos",
+"medical":"Emend",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Condiments",
+"food":"Bel Group",
+"medical":"Zoloft",
+"books":"LOGIC"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Decorations",
+"food":"KFC",
+"medical":"Benadryl",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Seafood",
+"food":"M&M Food Market",
+"medical":"Lasix",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Snack foods",
+"food":"Burger King",
+"medical":"Emend",
+"books":"Music"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Baby-care",
+"food":"Wendy's",
+"medical":"Femibion",
+"books":"Spanish"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Tomato sauce",
+"food":"Domino",
+"medical":"Midodrine",
+"books":"German"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Poultry",
+"food":"Sun-Pat",
+"medical":"Abilify",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Condiments",
+"food":"Wonder Bread",
+"medical":"Vioxx",
+"books":"Leadership"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Alcoholic beverages",
+"food":"Subway",
+"medical":"Nurofen",
+"books":"Latin"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Alcoholic beverages",
+"food":"Sun-Pat",
+"medical":"Zoloft",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Detergents",
+"food":"Nabisco",
+"medical":"Symbicort",
+"books":"Science"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Condiments",
+"food":"LEonidas",
+"medical":"Emend",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Toys",
+"food":"Kinder",
+"medical":"Symbicort",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Coffee",
+"food":"Wonder Bread",
+"medical":"Ibalgin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Alcoholic beverages",
+"food":"Secret Recipe",
+"medical":"Zoloft",
+"books":"Sociology"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Pet foods",
+"food":"Secret Recipe",
+"medical":"Magne B6",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Bottled waters",
+"food":"Kits",
+"medical":"Zetril",
+"books":"Latin"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Coffee",
+"food":"Doritos",
+"medical":"Zetril",
+"books":"Latin"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Detergents",
+"food":"Baskin robbins",
+"medical":"Nurofen",
+"books":"Spanish"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Cosmetics",
+"food":"Cobblestone",
+"medical":"Miralax",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Detergents",
+"food":"Subway",
+"medical":"Maxalt",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Chicken",
+"food":"Carib Brewery",
+"medical":"Visine",
+"books":"Mathematics"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Salmon",
+"food":"Knorr",
+"medical":"Cosopt",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Detergents",
+"food":"Kits",
+"medical":"Zetril",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Olive oil",
+"food":"Burger King",
+"medical":"Paracetamol",
+"books":"Latin"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Tomato sauce",
+"food":"M&M Food Market",
+"medical":"Emend",
+"books":"Basic Math"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Detergents",
+"food":"Kinder",
+"medical":"Benadryl",
+"books":"Grammar"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Cosmetics",
+"food":"Subway",
+"medical":"Symbicort",
+"books":"Basic Math"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Sweets",
+"food":"KFC",
+"medical":"Risperdal",
+"books":"English IV"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Fruits",
+"food":"Subway",
+"medical":"Vioxx",
+"books":"Physical Education"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Salmon",
+"food":"Cobblestone",
+"medical":"Cosopt",
+"books":"Sociology"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Condiments",
+"food":"Starbucks",
+"medical":"Pepcid",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Dry Goods",
+"food":"Knorr",
+"medical":"OxyContin",
+"books":"Geography"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Tomato sauce",
+"food":"Bewley's",
+"medical":"Varivax",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Personal Care",
+"food":"Nesquik",
+"medical":"Femibion",
+"books":"History"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Meat",
+"food":"Knorr",
+"medical":"Band-Aid",
+"books":"Accounting"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Mustard",
+"food":"Cheetos",
+"medical":"Ocrevus",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"House-cleaning products",
+"food":"Olymel",
+"medical":"Amaryl",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Flour",
+"food":"Domino",
+"medical":"Tylenol",
+"books":"Geography"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Ground turkey",
+"food":"Papadopoulos",
+"medical":"Zetia",
+"books":"Spanish"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Hygiene products",
+"food":"Red Lobster",
+"medical":"Emend",
+"books":"Ecology"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Fruits",
+"food":"Dunkin' Donuts",
+"medical":"Risperdal",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Nonalcoholic beverages",
+"food":"Knorr",
+"medical":"Vioxx",
+"books":"Latin"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Cheese",
+"food":"Kinder",
+"medical":"Cosopt",
+"books":"German"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Eggs",
+"food":"Knorr",
+"medical":"Zovirax",
+"books":"Design and technology"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Dishware",
+"food":"McDonald's",
+"medical":"Risperdal",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Bread",
+"food":"Secret Recipe",
+"medical":"Zoloft",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Nonalcoholic beverages",
+"food":"Nabisco",
+"medical":"Ibuprofen",
+"books":"Language Arts"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Olive oil",
+"food":"M&M Food Market",
+"medical":"Miralax",
+"books":"Science"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Baby-care",
+"food":"Cobblestone",
+"medical":"Femibion",
+"books":"Art"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Snack foods",
+"food":"Andy Capp's fries",
+"medical":"Ibalgin",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Bread",
+"food":"Papadopoulos",
+"medical":"Unisom",
+"books":"German"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"House-cleaning products",
+"food":"Kits",
+"medical":"Abilify",
+"books":"Art"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Bakery products",
+"food":"Doritos",
+"medical":"Emend",
+"books":"American Literature"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Hygiene products",
+"food":"Betty Crocker",
+"medical":"Benadryl",
+"books":"Speech"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Paper Goods",
+"food":"LEonidas",
+"medical":"NyQuill",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"White rice",
+"food":"Magnum",
+"medical":"Tylenol",
+"books":"Music"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Medicines",
+"food":"Vitta Foods",
+"medical":"Pepcid",
+"books":"Music"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Flowers",
+"food":"Starbucks",
+"medical":"Benadryl",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Mustard",
+"food":"Pizza Hut",
+"medical":"Ibuprofen",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"White rice",
+"food":"Carib Brewery",
+"medical":"Zetia",
+"books":"Grammar"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Baby food",
+"food":"LEonidas",
+"medical":"Nurofen",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Detergents",
+"food":"Kinder",
+"medical":"Prozac",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Cereals",
+"food":"Domino",
+"medical":"Midodrine",
+"books":"Music"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Paper Goods",
+"food":"Tic Tac",
+"medical":"Fosamax",
+"books":"Geography"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Housewares",
+"food":"Dunkin' Donuts",
+"medical":"Panadol",
+"books":"Latin"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Meat",
+"food":"Subway",
+"medical":"Zovirax",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Canned Goods",
+"food":"Secret Recipe",
+"medical":"Pepcid",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Pet foods",
+"food":"Bel Group",
+"medical":"Midodrine",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Pasta",
+"food":"Domino",
+"medical":"Aggrastat",
+"books":"Art"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Decorations",
+"food":"Cheetos",
+"medical":"Aspirin",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Toys",
+"food":"Nesquik",
+"medical":"Prozac",
+"books":"Art"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Dairy",
+"food":"Betty Crocker",
+"medical":"Maxalt",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Personal Care",
+"food":"Lavazza",
+"medical":"MidNite",
+"books":"American Literature"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Bread",
+"food":"Dunkin' Donuts",
+"medical":"Benadryl",
+"books":"Grammar"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Flowers",
+"food":"KFC",
+"medical":"Herceptin",
+"books":"American Literature"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Meat",
+"food":"Baskin robbins",
+"medical":"Pepcid",
+"books":"History"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Bottled waters",
+"food":"Subway",
+"medical":"Emend",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Coffee",
+"food":"Knorr",
+"medical":"Pepcid",
+"books":"Art"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Bread",
+"food":"Cheetos",
+"medical":"Ibuprofen",
+"books":"Speech"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Canned Goods",
+"food":"Wonder Bread",
+"medical":"Lasix",
+"books":"Speech"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Cereals",
+"food":"Lavazza",
+"medical":"Emend",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Dry Goods",
+"food":"Cheetos",
+"medical":"Novolin",
+"books":"French"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Flowers",
+"food":"KFC",
+"medical":"Aggrastat",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Flour",
+"food":"Carib Brewery",
+"medical":"Paracetamol",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Personal Care",
+"food":"Heinz",
+"medical":"Benadryl",
+"books":"Grammar"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Nonalcoholic beverages",
+"food":"Andy Capp's fries",
+"medical":"Aspirin",
+"books":"Leadership"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"House-cleaning products",
+"food":"Betty Crocker",
+"medical":"Advil",
+"books":"Music"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Dishware",
+"food":"Wendy's",
+"medical":"Zovirax",
+"books":"Science"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Tomato sauce",
+"food":"Taco Bell",
+"medical":"Ibuprofen",
+"books":"Physical Education"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Bottled waters",
+"food":"Applebee's",
+"medical":"Miralax",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Nonalcoholic beverages",
+"food":"Wendy's",
+"medical":"Aggrastat",
+"books":"Sociology"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Toys",
+"food":"Bel Group",
+"medical":"NyQuill",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Flour",
+"food":"Cheetos",
+"medical":"Abilify",
+"books":"Leadership"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Diet foods",
+"food":"Bewley's",
+"medical":"Advil",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Bakery products",
+"food":"Wonder Bread",
+"medical":"Exact",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Fruits",
+"food":"McDonald's",
+"medical":"Zovirax",
+"books":"German"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Nonalcoholic beverages",
+"food":"Wonder Bread",
+"medical":"Emend",
+"books":"Health"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Sweets",
+"food":"Bel Group",
+"medical":"Fosamax",
+"books":"Science"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Baby food",
+"food":"Taco Bell",
+"medical":"Ibuprofen",
+"books":"Accounting"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Snack foods",
+"food":"Cobblestone",
+"medical":"Advil",
+"books":"Accounting"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Cereals",
+"food":"Heinz",
+"medical":"Pepcid",
+"books":"History"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Seafood",
+"food":"Knorr",
+"medical":"Singulair",
+"books":"German"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Candies",
+"food":"Taco Bell",
+"medical":"Novolin",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Olive oil",
+"food":"Red Lobster",
+"medical":"Zetia",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Pasta",
+"food":"Betty Crocker",
+"medical":"Zetril",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Grooming products",
+"food":"Nesquik",
+"medical":"Prozac",
+"books":"Ecology"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Frozen foods",
+"food":"Cobblestone",
+"medical":"Zetril",
+"books":"Sociology"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Poultry",
+"food":"LEonidas",
+"medical":"Zetril",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Ground turkey",
+"food":"Sun-Pat",
+"medical":"Panadol",
+"books":"Economics"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Flour",
+"food":"Nabisco",
+"medical":"Emend",
+"books":"German"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Bread",
+"food":"Magnum",
+"medical":"Claritin",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Meat",
+"food":"Heinz",
+"medical":"Maxalt",
+"books":"Art"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Tomato sauce",
+"food":"Wonder Bread",
+"medical":"Zoloft",
+"books":"Geography"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Flowers",
+"food":"LEonidas",
+"medical":"Vioxx",
+"books":"Health"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Diet foods",
+"food":"Nabisco",
+"medical":"Zovirax",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Baby-care",
+"food":"Vitta Foods",
+"medical":"Zetia",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Sweets",
+"food":"Knorr",
+"medical":"Ibuprofen",
+"books":"Music"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Olive oil",
+"food":"Bewley's",
+"medical":"Advil",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Fruits",
+"food":"Heinz",
+"medical":"Aspirin",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Hygiene products",
+"food":"Cheetos",
+"medical":"Magne B6",
+"books":"Accounting"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Grooming products",
+"food":"Carib Brewery",
+"medical":"Claritin",
+"books":"Accounting"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Cosmetics",
+"food":"Nesquik",
+"medical":"Fosamax",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Personal hygiene",
+"food":"Subway",
+"medical":"Lasix",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Alcoholic beverages",
+"food":"Nesquik",
+"medical":"Cosopt",
+"books":"Accounting"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Diet foods",
+"food":"Pizza Hut",
+"medical":"Zetia",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Sweets",
+"food":"Red Lobster",
+"medical":"Femibion",
+"books":"Art"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Personal hygiene",
+"food":"Bel Group",
+"medical":"Panadol",
+"books":"American Literature"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Bread",
+"food":"Subway",
+"medical":"Claritin",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"White rice",
+"food":"Betty Crocker",
+"medical":"Novolin",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Medicines",
+"food":"Burger King",
+"medical":"Zovirax",
+"books":"Geography"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Pet foods",
+"food":"Sun-Pat",
+"medical":"Aspirin",
+"books":"American Literature"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Paper Goods",
+"food":"Taco Bell",
+"medical":"Fosamax",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Dry Goods",
+"food":"Domino",
+"medical":"Fosamax",
+"books":"French"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Grooming products",
+"food":"Domino",
+"medical":"Emend",
+"books":"Health"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Dry Goods",
+"food":"Papadopoulos",
+"medical":"Benadryl",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Chicken",
+"food":"Kits",
+"medical":"Ocrevus",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Flowers",
+"food":"Papadopoulos",
+"medical":"Risperdal",
+"books":"Latin"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Decorations",
+"food":"Nabisco",
+"medical":"Femibion",
+"books":"Economics"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Baby food",
+"food":"Secret Recipe",
+"medical":"Symbicort",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Diet foods",
+"food":"Heinz",
+"medical":"Ocrevus",
+"books":"Sociology"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Flour",
+"food":"Olymel",
+"medical":"Aspirin",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Snack foods",
+"food":"McDonald's",
+"medical":"Advil",
+"books":"Speech"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Bakery products",
+"food":"Betty Crocker",
+"medical":"Exact",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Baby-care",
+"food":"Knorr",
+"medical":"MidNite",
+"books":"Speech"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Sweets",
+"food":"Betty Crocker",
+"medical":"Maxalt",
+"books":"Accounting"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Vegetables",
+"food":"M&M Food Market",
+"medical":"Benadryl",
+"books":"Science"
+},
+{ 
+"clothes":"Lee",
+"grocery":"White rice",
+"food":"Subway",
+"medical":"Claritin",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Toys",
+"food":"McDonald's",
+"medical":"Visine",
+"books":"German"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Detergents",
+"food":"Kinder",
+"medical":"Aspirin",
+"books":"Accounting"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Tomato sauce",
+"food":"Baskin robbins",
+"medical":"Ibalgin",
+"books":"Speech"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Bottled waters",
+"food":"Betty Crocker",
+"medical":"Exact",
+"books":"English IV"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Sweets",
+"food":"Wonder Bread",
+"medical":"Ibuprofen",
+"books":"Grammar"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Brown rice",
+"food":"Wonder Bread",
+"medical":"Symbicort",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Fish",
+"food":"Red Lobster",
+"medical":"Vioxx",
+"books":"German"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Meat",
+"food":"Carib Brewery",
+"medical":"Gravol",
+"books":"Accounting"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Baby-care",
+"food":"Betty Crocker",
+"medical":"Varivax",
+"books":"English IV"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Sweets",
+"food":"Nabisco",
+"medical":"OxyContin",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Fish",
+"food":"Nesquik",
+"medical":"Emend",
+"books":"Leadership"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Sweets",
+"food":"Red Lobster",
+"medical":"Fosamax",
+"books":"English IV"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Baby-care",
+"food":"Carib Brewery",
+"medical":"Advil",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Olive oil",
+"food":"Wendy's",
+"medical":"Advil",
+"books":"French"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Housewares",
+"food":"Starbucks",
+"medical":"Coldrex",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Medicines",
+"food":"Cobblestone",
+"medical":"Fosamax",
+"books":"American Literature"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Mustard",
+"food":"Vitta Foods",
+"medical":"Claritin",
+"books":"Grammar"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Olive oil",
+"food":"Vitta Foods",
+"medical":"MidNite",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Grooming products",
+"food":"Baskin robbins",
+"medical":"Zetia",
+"books":"Leadership"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Housewares",
+"food":"LEonidas",
+"medical":"Band-Aid",
+"books":"Music"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Cheese",
+"food":"Kinder",
+"medical":"Amaryl",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Dishware",
+"food":"Dunkin' Donuts",
+"medical":"Tylenol",
+"books":"Design and technology"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Pet foods",
+"food":"Nabisco",
+"medical":"Cosopt",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Bottled waters",
+"food":"Papadopoulos",
+"medical":"OxyContin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Eggs",
+"food":"Applebee's",
+"medical":"Singulair",
+"books":"History"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Hygiene products",
+"food":"Lavazza",
+"medical":"Ibalgin",
+"books":"Health"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Cosmetics",
+"food":"Subway",
+"medical":"Zovirax",
+"books":"Speech"
+},
+{ 
+"clothes":"Koton",
+"grocery":"White rice",
+"food":"Carib Brewery",
+"medical":"Visine",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Alcoholic beverages",
+"food":"Lavazza",
+"medical":"Benadryl",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Sweets",
+"food":"Subway",
+"medical":"Abilify",
+"books":"Speech"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Detergents",
+"food":"Baskin robbins",
+"medical":"OxyContin",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Sweets",
+"food":"Wonder Bread",
+"medical":"Herceptin",
+"books":"Music"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Medicines",
+"food":"Secret Recipe",
+"medical":"Midodrine",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Olive oil",
+"food":"Taco Bell",
+"medical":"Exact",
+"books":"Leadership"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Candies",
+"food":"Betty Crocker",
+"medical":"Aspirin",
+"books":"Health"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Personal Care",
+"food":"Tic Tac",
+"medical":"Tylenol",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Personal hygiene",
+"food":"Dr. Oetker",
+"medical":"Zovirax",
+"books":"French"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Pasta",
+"food":"Knorr",
+"medical":"Miralax",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Housewares",
+"food":"Burger King",
+"medical":"NyQuill",
+"books":"Speech"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Meat",
+"food":"Burger King",
+"medical":"Zovirax",
+"books":"Art"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Meat",
+"food":"Nesquik",
+"medical":"Arcoxia",
+"books":"Music"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Flowers",
+"food":"Nesquik",
+"medical":"Visine",
+"books":"Leadership"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Snack foods",
+"food":"Heinz",
+"medical":"Lisinopril",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Nonalcoholic beverages",
+"food":"Sun-Pat",
+"medical":"Lasix",
+"books":"Geography"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Brown rice",
+"food":"Subway",
+"medical":"Visine",
+"books":"Accounting"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Dry Goods",
+"food":"Subway",
+"medical":"Lasix",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Salmon",
+"food":"Olymel",
+"medical":"Singulair",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Baby food",
+"food":"Kits",
+"medical":"Paracetamol",
+"books":"Leadership"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Meat",
+"food":"Nesquik",
+"medical":"Zoloft",
+"books":"Geography"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Coffee",
+"food":"Red Lobster",
+"medical":"Vaqta",
+"books":"American Literature"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Flour",
+"food":"Kits",
+"medical":"Tylenol",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Ground turkey",
+"food":"Lavazza",
+"medical":"Paracetamol",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Tea",
+"food":"Bewley's",
+"medical":"Symbicort",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Baby-care",
+"food":"Dr. Oetker",
+"medical":"Zoloft",
+"books":"Leadership"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Chicken",
+"food":"Nabisco",
+"medical":"Miralax",
+"books":"American Literature"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Meat",
+"food":"Baskin robbins",
+"medical":"Herceptin",
+"books":"History"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Medicines",
+"food":"Lavazza",
+"medical":"Lisinopril",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Flowers",
+"food":"M&M Food Market",
+"medical":"Unisom",
+"books":"French"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Sweets",
+"food":"Andy Capp's fries",
+"medical":"Maxalt",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Cosmetics",
+"food":"Baskin robbins",
+"medical":"Arcoxia",
+"books":"Sociology"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Baby-care",
+"food":"Heinz",
+"medical":"Pepcid",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Flowers",
+"food":"Heinz",
+"medical":"Coldrex",
+"books":"Spanish"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"House-cleaning products",
+"food":"Soprole",
+"medical":"Vioxx",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Condiments",
+"food":"Papadopoulos",
+"medical":"Vioxx",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Baby food",
+"food":"Magnum",
+"medical":"Gravol",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Baby food",
+"food":"Cheetos",
+"medical":"Ibalgin",
+"books":"Music"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Tea",
+"food":"Kinder",
+"medical":"Coldrex",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Dry Goods",
+"food":"Papadopoulos",
+"medical":"Paracetamol",
+"books":"Accounting"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Bakery products",
+"food":"Nesquik",
+"medical":"Prozac",
+"books":"French"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Tea",
+"food":"Papadopoulos",
+"medical":"Vaqta",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Frozen foods",
+"food":"Wendy's",
+"medical":"Coldrex",
+"books":"Speech"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Snack foods",
+"food":"Nutella",
+"medical":"Lisinopril",
+"books":"English IV"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Nonalcoholic beverages",
+"food":"Burger King",
+"medical":"Advil",
+"books":"Latin"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Cheese",
+"food":"Nabisco",
+"medical":"Risperdal",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Toys",
+"food":"Baskin robbins",
+"medical":"Zoloft",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Grooming products",
+"food":"Lavazza",
+"medical":"Ibalgin",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Paper Goods",
+"food":"Papadopoulos",
+"medical":"Zetia",
+"books":"German"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Tea",
+"food":"LEonidas",
+"medical":"Panadol",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Pasta",
+"food":"Subway",
+"medical":"Band-Aid",
+"books":"Grammar"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Detergents",
+"food":"KFC",
+"medical":"NyQuill",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Personal Care",
+"food":"KFC",
+"medical":"Vioxx",
+"books":"Art"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Chicken",
+"food":"M&M Food Market",
+"medical":"Amaryl",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Hygiene products",
+"food":"LEonidas",
+"medical":"Novolin",
+"books":"Latin"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Flowers",
+"food":"Nutella",
+"medical":"Aspirin",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Eggs",
+"food":"Burger King",
+"medical":"Claritin",
+"books":"Accounting"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Snack foods",
+"food":"Carib Brewery",
+"medical":"Singulair",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Mustard",
+"food":"Tic Tac",
+"medical":"Nurofen",
+"books":"Geography"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Candies",
+"food":"Wonder Bread",
+"medical":"Zetia",
+"books":"Music"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Cosmetics",
+"food":"Andy Capp's fries",
+"medical":"Arcoxia",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Bottled waters",
+"food":"Applebee's",
+"medical":"Arcoxia",
+"books":"Ecology"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Meat",
+"food":"KFC",
+"medical":"NyQuill",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Sauces",
+"food":"Pizza Hut",
+"medical":"Zoloft",
+"books":"French"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Bottled waters",
+"food":"Vitta Foods",
+"medical":"Prozac",
+"books":"Art"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Candies",
+"food":"Knorr",
+"medical":"Lisinopril",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Ground turkey",
+"food":"Pizza Hut",
+"medical":"Nurofen",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Alcoholic beverages",
+"food":"Cobblestone",
+"medical":"Aspirin",
+"books":"Science"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Vegetables",
+"food":"Applebee's",
+"medical":"Benadryl",
+"books":"Health"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Baby food",
+"food":"Pizza Hut",
+"medical":"Amaryl",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Fish",
+"food":"Wendy's",
+"medical":"Aspirin",
+"books":"English IV"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Dairy",
+"food":"Nabisco",
+"medical":"Benadryl",
+"books":"Sociology"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Snack foods",
+"food":"Betty Crocker",
+"medical":"Herceptin",
+"books":"Latin"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Personal Care",
+"food":"Nabisco",
+"medical":"Makena",
+"books":"French"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Mustard",
+"food":"Pizza Hut",
+"medical":"Advil",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Cheese",
+"food":"Knorr",
+"medical":"Maxalt",
+"books":"Economics"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Fruits",
+"food":"Vitta Foods",
+"medical":"Maxalt",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Ground turkey",
+"food":"Pizza Hut",
+"medical":"Ibalgin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Fruits",
+"food":"Nabisco",
+"medical":"Pepcid",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Olive oil",
+"food":"Cobblestone",
+"medical":"Exact",
+"books":"Design and technology"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Vegetables",
+"food":"Knorr",
+"medical":"Ibalgin",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Vegetables",
+"food":"Magnum",
+"medical":"Zoloft",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Housewares",
+"food":"Domino",
+"medical":"Singulair",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Frozen foods",
+"food":"Applebee's",
+"medical":"Miralax",
+"books":"Health"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Seafood",
+"food":"Tic Tac",
+"medical":"Vaqta",
+"books":"Grammar"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Personal Care",
+"food":"Taco Bell",
+"medical":"Maxalt",
+"books":"Leadership"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Pet foods",
+"food":"Andy Capp's fries",
+"medical":"Cosopt",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Pet foods",
+"food":"M&M Food Market",
+"medical":"Paracetamol",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Detergents",
+"food":"Red Lobster",
+"medical":"Fosamax",
+"books":"Leadership"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Chicken",
+"food":"M&M Food Market",
+"medical":"Panadol",
+"books":"Latin"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Olive oil",
+"food":"Kits",
+"medical":"Coldrex",
+"books":"Leadership"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"White rice",
+"food":"Starbucks",
+"medical":"Risperdal",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Tomato sauce",
+"food":"Kits",
+"medical":"MidNite",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Canned Goods",
+"food":"M&M Food Market",
+"medical":"Ocrevus",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Flowers",
+"food":"M&M Food Market",
+"medical":"Pepcid",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Personal hygiene",
+"food":"Starbucks",
+"medical":"Panadol",
+"books":"Accounting"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Personal hygiene",
+"food":"Bewley's",
+"medical":"Panadol",
+"books":"English IV"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Tomato sauce",
+"food":"Red Lobster",
+"medical":"Magne B6",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Bakery products",
+"food":"Wendy's",
+"medical":"Visine",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Tea",
+"food":"Olymel",
+"medical":"Paracetamol",
+"books":"Geography"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Meat",
+"food":"Heinz",
+"medical":"Aspirin",
+"books":"Latin"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Flour",
+"food":"Nabisco",
+"medical":"Arcoxia",
+"books":"Economics"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Baby food",
+"food":"Carib Brewery",
+"medical":"Amaryl",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Decorations",
+"food":"Nabisco",
+"medical":"Femibion",
+"books":"Handwriting"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Cheese",
+"food":"Tic Tac",
+"medical":"MidNite",
+"books":"Health"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Pasta",
+"food":"Knorr",
+"medical":"OxyContin",
+"books":"Economics"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Mustard",
+"food":"McDonald's",
+"medical":"Magne B6",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Cosmetics",
+"food":"Soprole",
+"medical":"Gravol",
+"books":"Art"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Baby food",
+"food":"Nesquik",
+"medical":"Emend",
+"books":"Latin"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Seafood",
+"food":"Baskin robbins",
+"medical":"Aspirin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Chicken",
+"food":"McDonald's",
+"medical":"Paracetamol",
+"books":"Economics"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Flowers",
+"food":"Betty Crocker",
+"medical":"Ibalgin",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Baby-care",
+"food":"Heinz",
+"medical":"Tylenol",
+"books":"Latin"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Housewares",
+"food":"Lavazza",
+"medical":"Emend",
+"books":"American Literature"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Vegetables",
+"food":"Pizza Hut",
+"medical":"Zovirax",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Housewares",
+"food":"Sun-Pat",
+"medical":"Arcoxia",
+"books":"Accounting"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Eggs",
+"food":"Knorr",
+"medical":"Panadol",
+"books":"Science"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Flour",
+"food":"Nesquik",
+"medical":"Miralax",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Bread",
+"food":"Pizza Hut",
+"medical":"Novolin",
+"books":"Art"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Pasta",
+"food":"McDonald's",
+"medical":"Novolin",
+"books":"History"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Baby food",
+"food":"Starbucks",
+"medical":"Gravol",
+"books":"English IV"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Pet foods",
+"food":"Magnum",
+"medical":"Ibalgin",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Baby-care",
+"food":"Doritos",
+"medical":"Singulair",
+"books":"Health"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Nonalcoholic beverages",
+"food":"Applebee's",
+"medical":"Lasix",
+"books":"History"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Alcoholic beverages",
+"food":"Carib Brewery",
+"medical":"Gravol",
+"books":"Spanish"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Alcoholic beverages",
+"food":"Kits",
+"medical":"Zovirax",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Olive oil",
+"food":"Secret Recipe",
+"medical":"Pepcid",
+"books":"Economics"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Brown rice",
+"food":"Applebee's",
+"medical":"Prozac",
+"books":"Latin"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Cheese",
+"food":"Betty Crocker",
+"medical":"Emend",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Cereals",
+"food":"Betty Crocker",
+"medical":"Tylenol",
+"books":"Science"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Pasta",
+"food":"Baskin robbins",
+"medical":"Band-Aid",
+"books":"German"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Tea",
+"food":"Wendy's",
+"medical":"Fosamax",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Tomato sauce",
+"food":"Nesquik",
+"medical":"Zetia",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Sauces",
+"food":"Tic Tac",
+"medical":"Exact",
+"books":"Art"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Vegetables",
+"food":"Taco Bell",
+"medical":"OxyContin",
+"books":"Geography"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Cheese",
+"food":"Knorr",
+"medical":"Varivax",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Cheese",
+"food":"Domino",
+"medical":"NyQuill",
+"books":"French"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Medicines",
+"food":"Bel Group",
+"medical":"Herceptin",
+"books":"Grammar"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Brown rice",
+"food":"Wendy's",
+"medical":"Singulair",
+"books":"Science"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Housewares",
+"food":"Nabisco",
+"medical":"Novolin",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Detergents",
+"food":"M&M Food Market",
+"medical":"Singulair",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Sweets",
+"food":"Doritos",
+"medical":"Zetril",
+"books":"Spanish"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Dry Goods",
+"food":"KFC",
+"medical":"Aggrastat",
+"books":"Music"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Vegetables",
+"food":"Sun-Pat",
+"medical":"Zetril",
+"books":"Science"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Toys",
+"food":"Red Lobster",
+"medical":"Zoloft",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Snack foods",
+"food":"Nutella",
+"medical":"Abilify",
+"books":"History"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Hygiene products",
+"food":"Papadopoulos",
+"medical":"Tylenol",
+"books":"Economics"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Toys",
+"food":"Magnum",
+"medical":"Zovirax",
+"books":"Sociology"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Pasta",
+"food":"Bel Group",
+"medical":"Visine",
+"books":"LOGIC"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Tomato sauce",
+"food":"McDonald's",
+"medical":"Unisom",
+"books":"Music"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Grooming products",
+"food":"Bel Group",
+"medical":"Arcoxia",
+"books":"German"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Vegetables",
+"food":"Olymel",
+"medical":"Emend",
+"books":"Accounting"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Nonalcoholic beverages",
+"food":"McDonald's",
+"medical":"Nurofen",
+"books":"Music"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Condiments",
+"food":"Cobblestone",
+"medical":"Varivax",
+"books":"Latin"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Poultry",
+"food":"KFC",
+"medical":"Maxalt",
+"books":"English IV"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Vegetables",
+"food":"Domino",
+"medical":"Zetia",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Dishware",
+"food":"LEonidas",
+"medical":"Midodrine",
+"books":"Physical Education"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Fish",
+"food":"Burger King",
+"medical":"Prozac",
+"books":"Health"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Cereals",
+"food":"LEonidas",
+"medical":"Fosamax",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Chicken",
+"food":"Taco Bell",
+"medical":"Coldrex",
+"books":"French"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Medicines",
+"food":"Burger King",
+"medical":"Paracetamol",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Tea",
+"food":"Cheetos",
+"medical":"Magne B6",
+"books":"Science"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Cosmetics",
+"food":"Dunkin' Donuts",
+"medical":"Abilify",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Brown rice",
+"food":"LEonidas",
+"medical":"Ibuprofen",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Fish",
+"food":"Starbucks",
+"medical":"Lasix",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Hygiene products",
+"food":"Applebee's",
+"medical":"Zetril",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Tomato sauce",
+"food":"Applebee's",
+"medical":"Zetril",
+"books":"Economics"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Frozen foods",
+"food":"Olymel",
+"medical":"Unisom",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"House-cleaning products",
+"food":"Doritos",
+"medical":"Lisinopril",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Pasta",
+"food":"Lavazza",
+"medical":"Midodrine",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Dry Goods",
+"food":"Bel Group",
+"medical":"Magne B6",
+"books":"French"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Baby food",
+"food":"Kits",
+"medical":"Pepcid",
+"books":"Spanish"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Mustard",
+"food":"McDonald's",
+"medical":"Lasix",
+"books":"German"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Seafood",
+"food":"Dunkin' Donuts",
+"medical":"Visine",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Detergents",
+"food":"Bel Group",
+"medical":"Makena",
+"books":"Music"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Flour",
+"food":"Dunkin' Donuts",
+"medical":"Aggrastat",
+"books":"Health"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Toys",
+"food":"Kits",
+"medical":"Exact",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Poultry",
+"food":"Bel Group",
+"medical":"Coldrex",
+"books":"Sociology"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Snack foods",
+"food":"Cobblestone",
+"medical":"OxyContin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Brown rice",
+"food":"Cobblestone",
+"medical":"Varivax",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Candies",
+"food":"M&M Food Market",
+"medical":"NyQuill",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Cereals",
+"food":"Soprole",
+"medical":"Prozac",
+"books":"English IV"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Seafood",
+"food":"Taco Bell",
+"medical":"Exact",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Grooming products",
+"food":"Cobblestone",
+"medical":"Tylenol",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Meat",
+"food":"Olymel",
+"medical":"Claritin",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Sweets",
+"food":"Knorr",
+"medical":"Vaqta",
+"books":"Latin"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Dry Goods",
+"food":"M&M Food Market",
+"medical":"Varivax",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Flour",
+"food":"M&M Food Market",
+"medical":"Unisom",
+"books":"Music"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Dishware",
+"food":"Magnum",
+"medical":"Vioxx",
+"books":"French"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Flowers",
+"food":"Dr. Oetker",
+"medical":"Pepcid",
+"books":"Accounting"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Cereals",
+"food":"Soprole",
+"medical":"Zovirax",
+"books":"Sociology"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Dairy",
+"food":"Kinder",
+"medical":"Coldrex",
+"books":"Grammar"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Olive oil",
+"food":"Heinz",
+"medical":"NyQuill",
+"books":"French"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Snack foods",
+"food":"Cheetos",
+"medical":"Gravol",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Sauces",
+"food":"Applebee's",
+"medical":"Novolin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Salmon",
+"food":"Kinder",
+"medical":"Band-Aid",
+"books":"Geography"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Paper Goods",
+"food":"Wendy's",
+"medical":"Abilify",
+"books":"Speech"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Alcoholic beverages",
+"food":"Nutella",
+"medical":"Gravol",
+"books":"Sociology"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Hygiene products",
+"food":"Nesquik",
+"medical":"Makena",
+"books":"Speech"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Diet foods",
+"food":"Cobblestone",
+"medical":"Tylenol",
+"books":"American Literature"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Coffee",
+"food":"Secret Recipe",
+"medical":"Pepcid",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Cereals",
+"food":"Wonder Bread",
+"medical":"Varivax",
+"books":"English IV"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Cosmetics",
+"food":"Applebee's",
+"medical":"Paracetamol",
+"books":"Leadership"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Baby food",
+"food":"LEonidas",
+"medical":"Pepcid",
+"books":"Accounting"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Cereals",
+"food":"M&M Food Market",
+"medical":"Femibion",
+"books":"Latin"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Brown rice",
+"food":"Burger King",
+"medical":"Herceptin",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Mustard",
+"food":"Burger King",
+"medical":"Midodrine",
+"books":"Leadership"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Brown rice",
+"food":"Olymel",
+"medical":"Ocrevus",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Poultry",
+"food":"Knorr",
+"medical":"Zetia",
+"books":"French"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Bakery products",
+"food":"Soprole",
+"medical":"Prozac",
+"books":"Health"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Grooming products",
+"food":"Cheetos",
+"medical":"Midodrine",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Personal hygiene",
+"food":"Dunkin' Donuts",
+"medical":"Gravol",
+"books":"Accounting"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Bakery products",
+"food":"Bewley's",
+"medical":"Aspirin",
+"books":"American Literature"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Medicines",
+"food":"Carib Brewery",
+"medical":"Miralax",
+"books":"English IV"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Frozen foods",
+"food":"Heinz",
+"medical":"Zetril",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Baby food",
+"food":"Kits",
+"medical":"Zoloft",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Diet foods",
+"food":"Applebee's",
+"medical":"Symbicort",
+"books":"Health"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Diet foods",
+"food":"Papadopoulos",
+"medical":"Risperdal",
+"books":"German"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Candies",
+"food":"Secret Recipe",
+"medical":"Varivax",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Flowers",
+"food":"Magnum",
+"medical":"Paracetamol",
+"books":"Latin"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Cosmetics",
+"food":"Domino",
+"medical":"Benadryl",
+"books":"Geography"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Dry Goods",
+"food":"McDonald's",
+"medical":"Zetril",
+"books":"Speech"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Eggs",
+"food":"Cheetos",
+"medical":"NyQuill",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Bakery products",
+"food":"Heinz",
+"medical":"Ibalgin",
+"books":"Art"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Dairy",
+"food":"McDonald's",
+"medical":"Vioxx",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Housewares",
+"food":"Soprole",
+"medical":"Tylenol",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Pasta",
+"food":"Andy Capp's fries",
+"medical":"Advil",
+"books":"LOGIC"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Olive oil",
+"food":"Starbucks",
+"medical":"Amaryl",
+"books":"Music"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Poultry",
+"food":"Taco Bell",
+"medical":"Symbicort",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Eggs",
+"food":"Magnum",
+"medical":"Coldrex",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Bakery products",
+"food":"Cheetos",
+"medical":"Zoloft",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Canned Goods",
+"food":"Cobblestone",
+"medical":"Emend",
+"books":"German"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Alcoholic beverages",
+"food":"Starbucks",
+"medical":"Emend",
+"books":"English IV"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Alcoholic beverages",
+"food":"Secret Recipe",
+"medical":"Singulair",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Bread",
+"food":"Nutella",
+"medical":"Varivax",
+"books":"Leadership"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Frozen foods",
+"food":"Taco Bell",
+"medical":"Magne B6",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Personal Care",
+"food":"Bel Group",
+"medical":"MidNite",
+"books":"American Literature"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Personal Care",
+"food":"Bel Group",
+"medical":"Vioxx",
+"books":"Spanish"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Personal Care",
+"food":"Sun-Pat",
+"medical":"Nurofen",
+"books":"Dramatics"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Meat",
+"food":"Secret Recipe",
+"medical":"Tylenol",
+"books":"Art"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Snack foods",
+"food":"Olymel",
+"medical":"Prozac",
+"books":"Latin"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Decorations",
+"food":"Burger King",
+"medical":"Novolin",
+"books":"Music"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Pet foods",
+"food":"M&M Food Market",
+"medical":"Singulair",
+"books":"Ecology"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Personal hygiene",
+"food":"Tic Tac",
+"medical":"Benadryl",
+"books":"Speech"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Fish",
+"food":"Dr. Oetker",
+"medical":"Magne B6",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"C&A",
+"grocery":"White rice",
+"food":"Red Lobster",
+"medical":"NyQuill",
+"books":"Grammar"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Candies",
+"food":"KFC",
+"medical":"Visine",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Housewares",
+"food":"Heinz",
+"medical":"Arcoxia",
+"books":"History"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Sauces",
+"food":"KFC",
+"medical":"Cosopt",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Personal hygiene",
+"food":"Wendy's",
+"medical":"Abilify",
+"books":"Grammar"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Flowers",
+"food":"Olymel",
+"medical":"Symbicort",
+"books":"Economics"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Baby-care",
+"food":"Domino",
+"medical":"Band-Aid",
+"books":"Sociology"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Pet foods",
+"food":"KFC",
+"medical":"Makena",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Dairy",
+"food":"Knorr",
+"medical":"Zovirax",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Cosmetics",
+"food":"Betty Crocker",
+"medical":"Cosopt",
+"books":"Speech"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Pasta",
+"food":"Secret Recipe",
+"medical":"Ocrevus",
+"books":"Music"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"White rice",
+"food":"Applebee's",
+"medical":"Nurofen",
+"books":"Accounting"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Seafood",
+"food":"Wendy's",
+"medical":"Miralax",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Eggs",
+"food":"Bewley's",
+"medical":"Gravol",
+"books":"Economics"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Seafood",
+"food":"Pizza Hut",
+"medical":"Benadryl",
+"books":"Speech"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Salmon",
+"food":"Secret Recipe",
+"medical":"Coldrex",
+"books":"Speech"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Flour",
+"food":"Lavazza",
+"medical":"Ibuprofen",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Sauces",
+"food":"Andy Capp's fries",
+"medical":"Visine",
+"books":"Grammar"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Cosmetics",
+"food":"Nabisco",
+"medical":"Pepcid",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Dairy",
+"food":"LEonidas",
+"medical":"Zoloft",
+"books":"Grammar"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Condiments",
+"food":"Starbucks",
+"medical":"Ibalgin",
+"books":"Leadership"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Frozen foods",
+"food":"Red Lobster",
+"medical":"Zoloft",
+"books":"Accounting"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Baby-care",
+"food":"Papadopoulos",
+"medical":"Arcoxia",
+"books":"German"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Detergents",
+"food":"Soprole",
+"medical":"Gravol",
+"books":"French"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Hygiene products",
+"food":"Wendy's",
+"medical":"Benadryl",
+"books":"Grammar"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Personal hygiene",
+"food":"Taco Bell",
+"medical":"NyQuill",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Personal Care",
+"food":"Dr. Oetker",
+"medical":"Femibion",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Bread",
+"food":"Applebee's",
+"medical":"Advil",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Meat",
+"food":"McDonald's",
+"medical":"MidNite",
+"books":"Grammar"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Ground turkey",
+"food":"Baskin robbins",
+"medical":"Femibion",
+"books":"Leadership"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Sweets",
+"food":"Doritos",
+"medical":"Tylenol",
+"books":"Music"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Bread",
+"food":"Heinz",
+"medical":"Claritin",
+"books":"Geography"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Salmon",
+"food":"Soprole",
+"medical":"Miralax",
+"books":"Speech"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Bakery products",
+"food":"Knorr",
+"medical":"Unisom",
+"books":"English IV"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Baby food",
+"food":"Papadopoulos",
+"medical":"MidNite",
+"books":"Ecology"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Medicines",
+"food":"Applebee's",
+"medical":"Unisom",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Detergents",
+"food":"Starbucks",
+"medical":"Paracetamol",
+"books":"Music"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Baby food",
+"food":"LEonidas",
+"medical":"Zoloft",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Snack foods",
+"food":"Wonder Bread",
+"medical":"Benadryl",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Seafood",
+"food":"Nabisco",
+"medical":"Lasix",
+"books":"Speech"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Mustard",
+"food":"Heinz",
+"medical":"Novolin",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Personal hygiene",
+"food":"Andy Capp's fries",
+"medical":"Arcoxia",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Condiments",
+"food":"Domino",
+"medical":"Magne B6",
+"books":"Art"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Alcoholic beverages",
+"food":"Lavazza",
+"medical":"Aspirin",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Cereals",
+"food":"Domino",
+"medical":"Midodrine",
+"books":"Music"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Baby-care",
+"food":"Wonder Bread",
+"medical":"OxyContin",
+"books":"Design and technology"
+},
+{ 
+"clothes":"C&A",
+"grocery":"House-cleaning products",
+"food":"M&M Food Market",
+"medical":"Zovirax",
+"books":"French"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Brown rice",
+"food":"LEonidas",
+"medical":"Varivax",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Seafood",
+"food":"Cheetos",
+"medical":"Paracetamol",
+"books":"Sociology"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Pet foods",
+"food":"Doritos",
+"medical":"Vioxx",
+"books":"Ecology"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Baby food",
+"food":"Nabisco",
+"medical":"Fosamax",
+"books":"Accounting"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Housewares",
+"food":"Starbucks",
+"medical":"MidNite",
+"books":"Physical Education"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Personal Care",
+"food":"Nabisco",
+"medical":"Exact",
+"books":"Music"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Detergents",
+"food":"Betty Crocker",
+"medical":"Abilify",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Frozen foods",
+"food":"Subway",
+"medical":"Zoloft",
+"books":"Economics"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Alcoholic beverages",
+"food":"Kits",
+"medical":"Nurofen",
+"books":"Latin"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"White rice",
+"food":"Subway",
+"medical":"Vaqta",
+"books":"Spanish"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Flour",
+"food":"Sun-Pat",
+"medical":"Fosamax",
+"books":"Science"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Sauces",
+"food":"Papadopoulos",
+"medical":"Singulair",
+"books":"Sociology"
+},
+{ 
+"clothes":"Bujo",
+"grocery":"Dry Goods",
+"food":"Secret Recipe",
+"medical":"Arcoxia",
+"books":"Grammar"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Bread",
+"food":"Cheetos",
+"medical":"Arcoxia",
+"books":"Grammar"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Nonalcoholic beverages",
+"food":"Kits",
+"medical":"NyQuill",
+"books":"Music"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Diet foods",
+"food":"Olymel",
+"medical":"Arcoxia",
+"books":"Geography"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Bakery products",
+"food":"Secret Recipe",
+"medical":"Ibuprofen",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Seafood",
+"food":"Heinz",
+"medical":"Fosamax",
+"books":"Grammar"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Sauces",
+"food":"Dunkin' Donuts",
+"medical":"Fosamax",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Meat",
+"food":"Vitta Foods",
+"medical":"Symbicort",
+"books":"Grammar"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Bakery products",
+"food":"Olymel",
+"medical":"Zoloft",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Dairy",
+"food":"Baskin robbins",
+"medical":"Femibion",
+"books":"Ecology"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Dry Goods",
+"food":"Domino",
+"medical":"Makena",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Ground turkey",
+"food":"Wendy's",
+"medical":"Ibalgin",
+"books":"Latin"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Snack foods",
+"food":"McDonald's",
+"medical":"Unisom",
+"books":"Ecology"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Dry Goods",
+"food":"Nesquik",
+"medical":"Varivax",
+"books":"American Literature"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Decorations",
+"food":"Nabisco",
+"medical":"Novolin",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Tomato sauce",
+"food":"Dr. Oetker",
+"medical":"OxyContin",
+"books":"Leadership"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Flowers",
+"food":"Nesquik",
+"medical":"Coldrex",
+"books":"Leadership"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Canned Goods",
+"food":"Carib Brewery",
+"medical":"Ibalgin",
+"books":"Latin"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Eggs",
+"food":"Sun-Pat",
+"medical":"Zetril",
+"books":"American Literature"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Tea",
+"food":"Knorr",
+"medical":"Femibion",
+"books":"Music"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Dishware",
+"food":"Kits",
+"medical":"Zetia",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Grooming products",
+"food":"Baskin robbins",
+"medical":"Vioxx",
+"books":"Speech"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Sweets",
+"food":"M&M Food Market",
+"medical":"Lisinopril",
+"books":"Accounting"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Sweets",
+"food":"Kinder",
+"medical":"Lisinopril",
+"books":"Economics"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Baby food",
+"food":"Betty Crocker",
+"medical":"Vioxx",
+"books":"Art"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Grooming products",
+"food":"Nabisco",
+"medical":"Exact",
+"books":"Accounting"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Hygiene products",
+"food":"Cheetos",
+"medical":"Vioxx",
+"books":"Language Arts"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Fish",
+"food":"M&M Food Market",
+"medical":"OxyContin",
+"books":"American Literature"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Personal Care",
+"food":"Vitta Foods",
+"medical":"Zovirax",
+"books":"Spanish"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Paper Goods",
+"food":"Pizza Hut",
+"medical":"Ibuprofen",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Medicines",
+"food":"Sun-Pat",
+"medical":"Advil",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Decorations",
+"food":"KFC",
+"medical":"Zetia",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Cheese",
+"food":"Vitta Foods",
+"medical":"Paracetamol",
+"books":"Grammar"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Brown rice",
+"food":"Domino",
+"medical":"NyQuill",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Toys",
+"food":"M&M Food Market",
+"medical":"Benadryl",
+"books":"Ecology"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Toys",
+"food":"Carib Brewery",
+"medical":"Lisinopril",
+"books":"Speech"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Decorations",
+"food":"Vitta Foods",
+"medical":"Novolin",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Vegetables",
+"food":"Subway",
+"medical":"Zoloft",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Pasta",
+"food":"Kits",
+"medical":"Singulair",
+"books":"Sociology"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Snack foods",
+"food":"LEonidas",
+"medical":"Midodrine",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Olive oil",
+"food":"Starbucks",
+"medical":"OxyContin",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Sauces",
+"food":"McDonald's",
+"medical":"Zovirax",
+"books":"Geography"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Bakery products",
+"food":"Soprole",
+"medical":"Amaryl",
+"books":"Science"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"House-cleaning products",
+"food":"Dunkin' Donuts",
+"medical":"Claritin",
+"books":"Latin"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Medicines",
+"food":"Kinder",
+"medical":"Midodrine",
+"books":"Accounting"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Baby food",
+"food":"Vitta Foods",
+"medical":"Midodrine",
+"books":"English IV"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Decorations",
+"food":"Dr. Oetker",
+"medical":"Ocrevus",
+"books":"Health"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Bottled waters",
+"food":"Papadopoulos",
+"medical":"Paracetamol",
+"books":"German"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Salmon",
+"food":"M&M Food Market",
+"medical":"Ibalgin",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Paper Goods",
+"food":"Dr. Oetker",
+"medical":"Paracetamol",
+"books":"Design and technology"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Dry Goods",
+"food":"Applebee's",
+"medical":"Symbicort",
+"books":"Spanish"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Detergents",
+"food":"Applebee's",
+"medical":"Magne B6",
+"books":"English IV"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Pet foods",
+"food":"M&M Food Market",
+"medical":"Ibalgin",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Dishware",
+"food":"KFC",
+"medical":"Abilify",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Fish",
+"food":"Bel Group",
+"medical":"Zoloft",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Pet foods",
+"food":"Doritos",
+"medical":"Ibuprofen",
+"books":"Leadership"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Canned Goods",
+"food":"LEonidas",
+"medical":"Zetril",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Decorations",
+"food":"Red Lobster",
+"medical":"Amaryl",
+"books":"Grammar"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Bottled waters",
+"food":"Magnum",
+"medical":"Band-Aid",
+"books":"Health"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"House-cleaning products",
+"food":"Bel Group",
+"medical":"MidNite",
+"books":"English IV"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Bread",
+"food":"KFC",
+"medical":"Zetia",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Cereals",
+"food":"M&M Food Market",
+"medical":"Ibalgin",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Sauces",
+"food":"Doritos",
+"medical":"Tylenol",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Nonalcoholic beverages",
+"food":"M&M Food Market",
+"medical":"Unisom",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Toys",
+"food":"Kinder",
+"medical":"Prozac",
+"books":"Speech"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Cosmetics",
+"food":"Red Lobster",
+"medical":"Magne B6",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Toys",
+"food":"Andy Capp's fries",
+"medical":"Vaqta",
+"books":"Latin"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Medicines",
+"food":"Kits",
+"medical":"Claritin",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Medicines",
+"food":"Knorr",
+"medical":"Varivax",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"White rice",
+"food":"Red Lobster",
+"medical":"Singulair",
+"books":"Sociology"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Meat",
+"food":"Nutella",
+"medical":"Exact",
+"books":"Accounting"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Housewares",
+"food":"McDonald's",
+"medical":"Amaryl",
+"books":"Accounting"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Cheese",
+"food":"Tic Tac",
+"medical":"Singulair",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Bottled waters",
+"food":"Betty Crocker",
+"medical":"Herceptin",
+"books":"Science"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Chicken",
+"food":"Kinder",
+"medical":"Unisom",
+"books":"Physical Education"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Pasta",
+"food":"Vitta Foods",
+"medical":"Vioxx",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Fish",
+"food":"LEonidas",
+"medical":"Zetia",
+"books":"Grammar"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Fish",
+"food":"McDonald's",
+"medical":"Abilify",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Alcoholic beverages",
+"food":"Dr. Oetker",
+"medical":"Cosopt",
+"books":"Ecology"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Toys",
+"food":"Nabisco",
+"medical":"Aggrastat",
+"books":"Leadership"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Fish",
+"food":"Taco Bell",
+"medical":"Zoloft",
+"books":"Grammar"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Toys",
+"food":"LEonidas",
+"medical":"Magne B6",
+"books":"German"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Condiments",
+"food":"Pizza Hut",
+"medical":"Aspirin",
+"books":"Leadership"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Toys",
+"food":"Cobblestone",
+"medical":"Cosopt",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Dry Goods",
+"food":"Taco Bell",
+"medical":"Singulair",
+"books":"Accounting"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Candies",
+"food":"Olymel",
+"medical":"Pepcid",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Poultry",
+"food":"Domino",
+"medical":"Aspirin",
+"books":"Spanish"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Baby-care",
+"food":"Olymel",
+"medical":"Maxalt",
+"books":"Health"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Bread",
+"food":"Betty Crocker",
+"medical":"Band-Aid",
+"books":"Economics"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Baby food",
+"food":"Baskin robbins",
+"medical":"Visine",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Personal Care",
+"food":"Pizza Hut",
+"medical":"Vaqta",
+"books":"Science"
+},
+{ 
+"clothes":"Baby Gap",
+"grocery":"Baby-care",
+"food":"Nutella",
+"medical":"Nurofen",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Grooming products",
+"food":"Bewley's",
+"medical":"Symbicort",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Personal hygiene",
+"food":"Pizza Hut",
+"medical":"Vioxx",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Grooming products",
+"food":"Taco Bell",
+"medical":"Exact",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Seafood",
+"food":"McDonald's",
+"medical":"Exact",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Alcoholic beverages",
+"food":"Burger King",
+"medical":"Zetia",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Baby-care",
+"food":"Papadopoulos",
+"medical":"Ocrevus",
+"books":"Sociology"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"House-cleaning products",
+"food":"Cheetos",
+"medical":"Cosopt",
+"books":"Music"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Frozen foods",
+"food":"Magnum",
+"medical":"Abilify",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Sweets",
+"food":"Wendy's",
+"medical":"Fosamax",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Fruits",
+"food":"Red Lobster",
+"medical":"Vioxx",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Meat",
+"food":"Bewley's",
+"medical":"Maxalt",
+"books":"Science"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Diet foods",
+"food":"Red Lobster",
+"medical":"Makena",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Baby-care",
+"food":"LEonidas",
+"medical":"Vaqta",
+"books":"History"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Bakery products",
+"food":"Soprole",
+"medical":"Gravol",
+"books":"Geography"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Housewares",
+"food":"Secret Recipe",
+"medical":"Zoloft",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Dairy",
+"food":"Domino",
+"medical":"Herceptin",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Dairy",
+"food":"Wonder Bread",
+"medical":"Visine",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"White rice",
+"food":"Doritos",
+"medical":"Tylenol",
+"books":"Economics"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Bottled waters",
+"food":"Subway",
+"medical":"Pepcid",
+"books":"English IV"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Eggs",
+"food":"Carib Brewery",
+"medical":"Magne B6",
+"books":"Music"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Flour",
+"food":"Lavazza",
+"medical":"Band-Aid",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Vegetables",
+"food":"Sun-Pat",
+"medical":"Unisom",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Baby food",
+"food":"LEonidas",
+"medical":"Zetia",
+"books":"Science"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Brown rice",
+"food":"Knorr",
+"medical":"Vaqta",
+"books":"Latin"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Coffee",
+"food":"Carib Brewery",
+"medical":"Zoloft",
+"books":"Latin"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Dishware",
+"food":"Domino",
+"medical":"Maxalt",
+"books":"Accounting"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Salmon",
+"food":"Soprole",
+"medical":"Lasix",
+"books":"History"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Olive oil",
+"food":"Lavazza",
+"medical":"Gravol",
+"books":"Ecology"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Pet foods",
+"food":"Lavazza",
+"medical":"Emend",
+"books":"German"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Toys",
+"food":"Bewley's",
+"medical":"Tylenol",
+"books":"Science"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Tomato sauce",
+"food":"Olymel",
+"medical":"Maxalt",
+"books":"Grammar"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Seafood",
+"food":"KFC",
+"medical":"Arcoxia",
+"books":"Economics"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Cosmetics",
+"food":"Knorr",
+"medical":"Tylenol",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Sauces",
+"food":"Red Lobster",
+"medical":"Miralax",
+"books":"Accounting"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Canned Goods",
+"food":"Vitta Foods",
+"medical":"Zoloft",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Seafood",
+"food":"Knorr",
+"medical":"Miralax",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Decorations",
+"food":"Tic Tac",
+"medical":"Zetia",
+"books":"English IV"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Meat",
+"food":"Vitta Foods",
+"medical":"Risperdal",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Meat",
+"food":"Bel Group",
+"medical":"Zoloft",
+"books":"Physical Education"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Diet foods",
+"food":"Betty Crocker",
+"medical":"Aggrastat",
+"books":"Music"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Canned Goods",
+"food":"Cheetos",
+"medical":"Amaryl",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Sauces",
+"food":"Betty Crocker",
+"medical":"Zoloft",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Housewares",
+"food":"Andy Capp's fries",
+"medical":"Varivax",
+"books":"Music"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Diet foods",
+"food":"Secret Recipe",
+"medical":"Emend",
+"books":"French"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Cosmetics",
+"food":"M&M Food Market",
+"medical":"Gravol",
+"books":"Accounting"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Condiments",
+"food":"Taco Bell",
+"medical":"Zetril",
+"books":"Grammar"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Baby-care",
+"food":"Cobblestone",
+"medical":"Fosamax",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Baby food",
+"food":"Vitta Foods",
+"medical":"Lisinopril",
+"books":"Art"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Cosmetics",
+"food":"Magnum",
+"medical":"Cosopt",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Hygiene products",
+"food":"Red Lobster",
+"medical":"Vioxx",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Brown rice",
+"food":"McDonald's",
+"medical":"Zetril",
+"books":"Health"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Tomato sauce",
+"food":"Sun-Pat",
+"medical":"Exact",
+"books":"Speech"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Nonalcoholic beverages",
+"food":"Betty Crocker",
+"medical":"Lasix",
+"books":"English IV"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Pasta",
+"food":"Doritos",
+"medical":"Aggrastat",
+"books":"Leadership"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Decorations",
+"food":"Carib Brewery",
+"medical":"Miralax",
+"books":"Grammar"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Housewares",
+"food":"Bewley's",
+"medical":"Cosopt",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Dairy",
+"food":"Wonder Bread",
+"medical":"Fosamax",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Dry Goods",
+"food":"Lavazza",
+"medical":"Novolin",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Hygiene products",
+"food":"Heinz",
+"medical":"Claritin",
+"books":"English IV"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Candies",
+"food":"Burger King",
+"medical":"Aggrastat",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Personal Care",
+"food":"Doritos",
+"medical":"Band-Aid",
+"books":"Grammar"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Dry Goods",
+"food":"Nabisco",
+"medical":"Lisinopril",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Decorations",
+"food":"Betty Crocker",
+"medical":"Visine",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Seafood",
+"food":"Magnum",
+"medical":"Ocrevus",
+"books":"Music"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Canned Goods",
+"food":"Wonder Bread",
+"medical":"Midodrine",
+"books":"English IV"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Personal Care",
+"food":"McDonald's",
+"medical":"Vaqta",
+"books":"Spanish"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Meat",
+"food":"Nabisco",
+"medical":"Paracetamol",
+"books":"Economics"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"House-cleaning products",
+"food":"Lavazza",
+"medical":"Advil",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Grooming products",
+"food":"Nesquik",
+"medical":"Visine",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Cheese",
+"food":"Kinder",
+"medical":"Aspirin",
+"books":"History"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Nonalcoholic beverages",
+"food":"Dunkin' Donuts",
+"medical":"Lisinopril",
+"books":"American Literature"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Pet foods",
+"food":"Betty Crocker",
+"medical":"Nurofen",
+"books":"American Literature"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Baby-care",
+"food":"Secret Recipe",
+"medical":"Novolin",
+"books":"German"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Salmon",
+"food":"Pizza Hut",
+"medical":"Ibuprofen",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Poultry",
+"food":"Sun-Pat",
+"medical":"Magne B6",
+"books":"Ecology"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Coffee",
+"food":"Dunkin' Donuts",
+"medical":"Tylenol",
+"books":"History"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"House-cleaning products",
+"food":"McDonald's",
+"medical":"Herceptin",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Flour",
+"food":"Wendy's",
+"medical":"Emend",
+"books":"French"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Medicines",
+"food":"Andy Capp's fries",
+"medical":"Varivax",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Condiments",
+"food":"Heinz",
+"medical":"Claritin",
+"books":"Music"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Dishware",
+"food":"Bewley's",
+"medical":"Singulair",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Personal hygiene",
+"food":"Nutella",
+"medical":"Magne B6",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Sweets",
+"food":"Dr. Oetker",
+"medical":"Prozac",
+"books":"History"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Meat",
+"food":"Dunkin' Donuts",
+"medical":"Visine",
+"books":"Health"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Dishware",
+"food":"Baskin robbins",
+"medical":"Maxalt",
+"books":"Speech"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Pet foods",
+"food":"Taco Bell",
+"medical":"Ibalgin",
+"books":"Economics"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"White rice",
+"food":"Carib Brewery",
+"medical":"Unisom",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Tea",
+"food":"Tic Tac",
+"medical":"Singulair",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Housewares",
+"food":"Subway",
+"medical":"Paracetamol",
+"books":"Economics"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Coffee",
+"food":"Red Lobster",
+"medical":"Panadol",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Tea",
+"food":"Kits",
+"medical":"Midodrine",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Personal hygiene",
+"food":"Vitta Foods",
+"medical":"Fosamax",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Bread",
+"food":"LEonidas",
+"medical":"Emend",
+"books":"English IV"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Condiments",
+"food":"Knorr",
+"medical":"Gravol",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Tomato sauce",
+"food":"Wendy's",
+"medical":"Lasix",
+"books":"Economics"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Poultry",
+"food":"Bewley's",
+"medical":"Ibuprofen",
+"books":"Grammar"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Personal hygiene",
+"food":"Bewley's",
+"medical":"Maxalt",
+"books":"Accounting"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Cereals",
+"food":"Olymel",
+"medical":"Prozac",
+"books":"English IV"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Mustard",
+"food":"Starbucks",
+"medical":"Ocrevus",
+"books":"Speech"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Mustard",
+"food":"Kinder",
+"medical":"Band-Aid",
+"books":"French"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Grooming products",
+"food":"Cobblestone",
+"medical":"Zetril",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"White rice",
+"food":"Andy Capp's fries",
+"medical":"OxyContin",
+"books":"German"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Dairy",
+"food":"Doritos",
+"medical":"Abilify",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Frozen foods",
+"food":"Heinz",
+"medical":"Zetia",
+"books":"Spanish"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Hygiene products",
+"food":"Wonder Bread",
+"medical":"Aggrastat",
+"books":"Speech"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Cosmetics",
+"food":"Nabisco",
+"medical":"Nurofen",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Tea",
+"food":"Doritos",
+"medical":"Visine",
+"books":"Speech"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Vegetables",
+"food":"Betty Crocker",
+"medical":"Vaqta",
+"books":"English IV"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Brown rice",
+"food":"Bewley's",
+"medical":"Ibuprofen",
+"books":"Music"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Salmon",
+"food":"Doritos",
+"medical":"Abilify",
+"books":"History"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Fruits",
+"food":"McDonald's",
+"medical":"Zoloft",
+"books":"Dramatics"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Diet foods",
+"food":"Magnum",
+"medical":"Unisom",
+"books":"History"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Chicken",
+"food":"Vitta Foods",
+"medical":"OxyContin",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"House-cleaning products",
+"food":"KFC",
+"medical":"Makena",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Toys",
+"food":"Tic Tac",
+"medical":"Exact",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"House-cleaning products",
+"food":"Baskin robbins",
+"medical":"Lisinopril",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"Sweets",
+"food":"Wendy's",
+"medical":"Coldrex",
+"books":"French"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Bakery products",
+"food":"LEonidas",
+"medical":"Zoloft",
+"books":"Geography"
+},
+{ 
+"clothes":"TNT",
+"grocery":"Poultry",
+"food":"Burger King",
+"medical":"Femibion",
+"books":"Ecology"
+},
+{ 
+"clothes":"Mataano",
+"grocery":"Flowers",
+"food":"Secret Recipe",
+"medical":"Nurofen",
+"books":"Music"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Cosmetics",
+"food":"Baskin robbins",
+"medical":"Amaryl",
+"books":"Grammar"
+},
+{ 
+"clothes":"Lilli Ann",
+"grocery":"Sauces",
+"food":"Cobblestone",
+"medical":"Risperdal",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Karen Kane",
+"grocery":"Seafood",
+"food":"LEonidas",
+"medical":"Ibuprofen",
+"books":"Leadership"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"House-cleaning products",
+"food":"McDonald's",
+"medical":"Amaryl",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Dry Goods",
+"food":"Heinz",
+"medical":"Coldrex",
+"books":"Accounting"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Bottled waters",
+"food":"Red Lobster",
+"medical":"Femibion",
+"books":"Geography"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Seafood",
+"food":"Burger King",
+"medical":"Vaqta",
+"books":"History"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Candies",
+"food":"Nesquik",
+"medical":"Zovirax",
+"books":"Music"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Meat",
+"food":"Applebee's",
+"medical":"Benadryl",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Alcoholic beverages",
+"food":"Dr. Oetker",
+"medical":"Claritin",
+"books":"Economics"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Personal Care",
+"food":"Burger King",
+"medical":"Paracetamol",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Bread",
+"food":"Dunkin' Donuts",
+"medical":"Exact",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Meat",
+"food":"Andy Capp's fries",
+"medical":"Aggrastat",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"White rice",
+"food":"Dunkin' Donuts",
+"medical":"MidNite",
+"books":"Physical Education"
+},
+{ 
+"clothes":"SABA",
+"grocery":"Bread",
+"food":"Magnum",
+"medical":"Singulair",
+"books":"French"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Personal hygiene",
+"food":"Andy Capp's fries",
+"medical":"Arcoxia",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Diet foods",
+"food":"Sun-Pat",
+"medical":"Abilify",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Nudie Jeans",
+"grocery":"Tea",
+"food":"Kinder",
+"medical":"Aspirin",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Grooming products",
+"food":"KFC",
+"medical":"Emend",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Bakery products",
+"food":"Domino",
+"medical":"Emend",
+"books":"German"
+},
+{ 
+"clothes":"Tommy Hilfinger",
+"grocery":"Nonalcoholic beverages",
+"food":"Nesquik",
+"medical":"Zoloft",
+"books":"American Literature"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Medicines",
+"food":"Heinz",
+"medical":"Gravol",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Grooming products",
+"food":"Taco Bell",
+"medical":"Makena",
+"books":"Health"
+},
+{ 
+"clothes":"JNCO",
+"grocery":"Diet foods",
+"food":"Domino",
+"medical":"Benadryl",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Medicines",
+"food":"Sun-Pat",
+"medical":"Novolin",
+"books":"Ecology"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Bottled waters",
+"food":"LEonidas",
+"medical":"Panadol",
+"books":"Art"
+},
+{ 
+"clothes":"Dollie & Me",
+"grocery":"Sweets",
+"food":"Burger King",
+"medical":"Midodrine",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Seafood",
+"food":"Cheetos",
+"medical":"Varivax",
+"books":"Economics"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Fish",
+"food":"Dr. Oetker",
+"medical":"Abilify",
+"books":"Ecology"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Cosmetics",
+"food":"Pizza Hut",
+"medical":"Claritin",
+"books":"Art"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Poultry",
+"food":"Lavazza",
+"medical":"Zovirax",
+"books":"Geography"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Personal hygiene",
+"food":"Magnum",
+"medical":"Herceptin",
+"books":"LOGIC"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Cosmetics",
+"food":"Applebee's",
+"medical":"Gravol",
+"books":"Music"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Diet foods",
+"food":"Dunkin' Donuts",
+"medical":"Vaqta",
+"books":"Instrumental Music"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Poultry",
+"food":"Wonder Bread",
+"medical":"Singulair",
+"books":"English IV"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Coffee",
+"food":"Wonder Bread",
+"medical":"Ocrevus",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Merc Clothing",
+"grocery":"Flowers",
+"food":"Applebee's",
+"medical":"Pepcid",
+"books":"Leadership"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Sauces",
+"food":"Soprole",
+"medical":"Pepcid",
+"books":"Health"
+},
+{ 
+"clothes":"EMEL Fashion",
+"grocery":"Candies",
+"food":"Knorr",
+"medical":"Abilify",
+"books":"English IV"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Fish",
+"food":"Secret Recipe",
+"medical":"Symbicort",
+"books":"Leadership"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Chicken",
+"food":"Domino",
+"medical":"Visine",
+"books":"Health"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Condiments",
+"food":"Bewley's",
+"medical":"Ibalgin",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Coffee",
+"food":"Wendy's",
+"medical":"Band-Aid",
+"books":"Geography"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Cosmetics",
+"food":"Dr. Oetker",
+"medical":"Maxalt",
+"books":"Spanish"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Coffee",
+"food":"Magnum",
+"medical":"Lisinopril",
+"books":"History"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Fish",
+"food":"Olymel",
+"medical":"Ibuprofen",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Old Navy",
+"grocery":"Bakery products",
+"food":"Domino",
+"medical":"Zovirax",
+"books":"Basic Math"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Snack foods",
+"food":"Nabisco",
+"medical":"Exact",
+"books":"English IV"
+},
+{ 
+"clothes":"H&M",
+"grocery":"Bread",
+"food":"Pizza Hut",
+"medical":"Zetia",
+"books":"Speech"
+},
+{ 
+"clothes":"Hamilton Shirts",
+"grocery":"Candies",
+"food":"Heinz",
+"medical":"Vioxx",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Detergents",
+"food":"Papadopoulos",
+"medical":"Band-Aid",
+"books":"German"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Cereals",
+"food":"Nabisco",
+"medical":"NyQuill",
+"books":"Geography"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Alcoholic beverages",
+"food":"Domino",
+"medical":"Visine",
+"books":"Resource Program"
+},
+{ 
+"clothes":"Koalapop",
+"grocery":"Dishware",
+"food":"Secret Recipe",
+"medical":"Nurofen",
+"books":"American Literature"
+},
+{ 
+"clothes":"Mossimo",
+"grocery":"Meat",
+"food":"Applebee's",
+"medical":"Prozac",
+"books":"Science"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Seafood",
+"food":"Secret Recipe",
+"medical":"Risperdal",
+"books":"Dramatics"
+},
+{ 
+"clothes":"Ex-Boyfriend",
+"grocery":"Seafood",
+"food":"Kits",
+"medical":"Zovirax",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"White rice",
+"food":"Wonder Bread",
+"medical":"Aggrastat",
+"books":"Latin"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Candies",
+"food":"Bewley's",
+"medical":"Arcoxia",
+"books":"Spanish"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Dry Goods",
+"food":"Sun-Pat",
+"medical":"Zovirax",
+"books":"Sociology"
+},
+{ 
+"clothes":"Calvin Klein",
+"grocery":"Flowers",
+"food":"Carib Brewery",
+"medical":"Zetril",
+"books":"Grammar"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Baby food",
+"food":"Carib Brewery",
+"medical":"Pepcid",
+"books":"Art"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Condiments",
+"food":"Sun-Pat",
+"medical":"Amaryl",
+"books":"Sociology"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Cosmetics",
+"food":"Betty Crocker",
+"medical":"Lasix",
+"books":"French"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Cereals",
+"food":"Heinz",
+"medical":"Visine",
+"books":"Science"
+},
+{ 
+"clothes":"Acorn Stores",
+"grocery":"Seafood",
+"food":"Starbucks",
+"medical":"Claritin",
+"books":"American Literature"
+},
+{ 
+"clothes":"Marchesa",
+"grocery":"Coffee",
+"food":"M&M Food Market",
+"medical":"Paracetamol",
+"books":"Mathematics"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Salmon",
+"food":"Kits",
+"medical":"Vaqta",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Guess",
+"grocery":"Canned Goods",
+"food":"LEonidas",
+"medical":"Makena",
+"books":"Leadership"
+},
+{ 
+"clothes":"Countess Mara",
+"grocery":"White rice",
+"food":"Knorr",
+"medical":"Midodrine",
+"books":"Latin"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Seafood",
+"food":"Bel Group",
+"medical":"Zoloft",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Koton",
+"grocery":"Bakery products",
+"food":"Cobblestone",
+"medical":"Maxalt",
+"books":"Speech"
+},
+{ 
+"clothes":"Ethika",
+"grocery":"Dry Goods",
+"food":"Papadopoulos",
+"medical":"Zovirax",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Mustard",
+"food":"Bel Group",
+"medical":"Zetia",
+"books":"Health"
+},
+{ 
+"clothes":"Forever 21",
+"grocery":"Salmon",
+"food":"Knorr",
+"medical":"Symbicort",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Mohito",
+"grocery":"Salmon",
+"food":"Bel Group",
+"medical":"Singulair",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Decorations",
+"food":"Applebee's",
+"medical":"Singulair",
+"books":"French"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Diet foods",
+"food":"Domino",
+"medical":"Zetia",
+"books":"German"
+},
+{ 
+"clothes":"Columbia Sportswear",
+"grocery":"Mustard",
+"food":"Subway",
+"medical":"Emend",
+"books":"Latin"
+},
+{ 
+"clothes":"Lee",
+"grocery":"Pet foods",
+"food":"Starbucks",
+"medical":"NyQuill",
+"books":"German"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"House-cleaning products",
+"food":"Secret Recipe",
+"medical":"Lisinopril",
+"books":"Physical Education"
+},
+{ 
+"clothes":"DKNY",
+"grocery":"Decorations",
+"food":"Secret Recipe",
+"medical":"Visine",
+"books":"Ecology"
+},
+{ 
+"clothes":"Avirex",
+"grocery":"Fruits",
+"food":"Doritos",
+"medical":"Nurofen",
+"books":"Speech"
+},
+{ 
+"clothes":"Six Deuce",
+"grocery":"Dry Goods",
+"food":"Starbucks",
+"medical":"Zoloft",
+"books":"Speech"
+},
+{ 
+"clothes":"Max Studio",
+"grocery":"Decorations",
+"food":"Soprole",
+"medical":"Lasix",
+"books":"Language Arts"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Detergents",
+"food":"M&M Food Market",
+"medical":"Zetril",
+"books":"Earth Science"
+},
+{ 
+"clothes":"Cross Colours",
+"grocery":"Alcoholic beverages",
+"food":"Betty Crocker",
+"medical":"Coldrex",
+"books":"Handwriting"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Pasta",
+"food":"Betty Crocker",
+"medical":"Advil",
+"books":"Mathematics"
+},
+{ 
+"clothes":"C&A",
+"grocery":"Fruits",
+"food":"Doritos",
+"medical":"MidNite",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Forever Lazy",
+"grocery":"Dishware",
+"food":"LEonidas",
+"medical":"Tylenol",
+"books":"Sociology"
+},
+{ 
+"clothes":"Cherokee Inc.",
+"grocery":"Bakery products",
+"food":"Bewley's",
+"medical":"Pepcid",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Tea",
+"food":"KFC",
+"medical":"Coldrex",
+"books":"Modern Literature"
+},
+{ 
+"clothes":"Converse",
+"grocery":"White rice",
+"food":"Secret Recipe",
+"medical":"Advil",
+"books":"Trigonometry"
+},
+{ 
+"clothes":"Rip Curl",
+"grocery":"Alcoholic beverages",
+"food":"Red Lobster",
+"medical":"Nurofen",
+"books":"Physical Education"
+},
+{ 
+"clothes":"Angels Jeanswear",
+"grocery":"Seafood",
+"food":"Soprole",
+"medical":"Visine",
+"books":"Design and technology"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Ground turkey",
+"food":"Doritos",
+"medical":"Symbicort",
+"books":"German"
+},
+{ 
+"clothes":"Nice Collective",
+"grocery":"Bakery products",
+"food":"Vitta Foods",
+"medical":"Panadol",
+"books":"Art"
+},
+{ 
+"clothes":"Real Gold",
+"grocery":"Sweets",
+"food":"KFC",
+"medical":"Tylenol",
+"books":"Speech"
+},
+{ 
+"clothes":"Izod",
+"grocery":"Tomato sauce",
+"food":"Secret Recipe",
+"medical":"Vioxx",
+"books":"Ancient Civilizations"
+},
+{ 
+"clothes":"Healthtex",
+"grocery":"Cereals",
+"food":"McDonald's",
+"medical":"Paracetamol",
+"books":"Science"
+},
+{ 
+"clothes":"Andrew Marc",
+"grocery":"Olive oil",
+"food":"Tic Tac",
+"medical":"Exact",
+"books":"Grammar"
+},
+{ 
+"clothes":"Brooks Brothers",
+"grocery":"Personal Care",
+"food":"Applebee's",
+"medical":"Midodrine",
+"books":"LOGIC"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Tomato sauce",
+"food":"Wendy's",
+"medical":"Novolin",
+"books":"Geography"
+},
+{ 
+"clothes":"Levis",
+"grocery":"Mustard",
+"food":"McDonald's",
+"medical":"Abilify",
+"books":"English IV"
+},
+{ 
+"clothes":"Loyandford",
+"grocery":"Flour",
+"food":"M&M Food Market",
+"medical":"Band-Aid",
+"books":"English IV"
+},
+{ 
+"clothes":"Converse",
+"grocery":"Toys",
+"food":"LEonidas",
+"medical":"Ibalgin",
+"books":"Music"
+},
+{ 
+"clothes":"Ecko Unlimited",
+"grocery":"Sauces",
+"food":"Cobblestone",
+"medical":"Nurofen",
+"books":"American Literature"
+}
+]}
